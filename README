@@ -1,0 +1,3 @@
+JumbleFX
+version 0.8.0
+A JavaFX word jumble game. It uses an XML file to store the words. You can add your own words to the XML file and play.
